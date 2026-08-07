@@ -1,5 +1,14 @@
 # SiliconExpert MCP Server
 
+[![GitHub stars](https://img.shields.io/github/stars/petervalencic/siliconexpert-mcp-server?style=social)](https://github.com/petervalencic/siliconexpert-mcp-server/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/petervalencic/siliconexpert-mcp-server?style=social)](https://github.com/petervalencic/siliconexpert-mcp-server/network/members)
+[![GitHub contributors](https://img.shields.io/github/contributors/petervalencic/siliconexpert-mcp-server)](https://github.com/petervalencic/siliconexpert-mcp-server/graphs/contributors)
+[![GitHub issues](https://img.shields.io/github/issues/petervalencic/siliconexpert-mcp-server)](https://github.com/petervalencic/siliconexpert-mcp-server/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/petervalencic/siliconexpert-mcp-server)](https://github.com/petervalencic/siliconexpert-mcp-server/pulls)
+[![GitHub license](https://img.shields.io/github/license/petervalencic/siliconexpert-mcp-server)](https://github.com/petervalencic/siliconexpert-mcp-server/blob/main/LICENSE)
+[![GitHub last commit](https://img.shields.io/github/last-commit/petervalencic/siliconexpert-mcp-server)](https://github.com/petervalencic/siliconexpert-mcp-server/commits/main)
+[![Python](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
+
 **Author:** Peter Valencic
 
 A Model Context Protocol (MCP) server that provides full access to the [SiliconExpert](https://www.siliconexpert.com/) Direct API. This server exposes 47 tools covering all SiliconExpert API services, enabling AI assistants and MCP-compatible clients to search, analyze, and retrieve electronic component data.
