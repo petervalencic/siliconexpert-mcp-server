@@ -110,7 +110,7 @@ Add this to your `.kiro/settings/mcp.json`:
   "mcpServers": {
     "siliconexpert": {
       "command": "python",
-      "args": ["c:/pythonProjects/siliconexpertmcp/mcp_siliconexpert_server.py"],
+      "args": ["/path/to/mcp_siliconexpert_server.py"],
       "env": {
         "SE_USERNAME": "your_api_username",
         "SE_PASSWORD": "your_api_key"
